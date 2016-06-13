@@ -11,22 +11,26 @@ font-family: 'Orbitron', sans-serif;
 }
 
 header{
+  font-family: 'Orbitron', sans-serif;
   padding:10px;
-  text-aligen:center;
+  text-align:center;
   background-color: red;
 }
 section{
+  font-family: 'Orbitron', sans-serif;
   padding: 10px;
   background-color: orange;
 }
 aside{
+  font-family: 'Orbitron', sans-serif;
   padding: 10px;
   background-color: green;
 }
 footer{
+  font-family: 'Orbitron', sans-serif;
   padding: 10px;
   background-color: blue;
-  text-alige: center;
+  text-align: center;
 }
 
 @media screen and (min-width:641px){
